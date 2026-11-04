@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana;
+};
+
+/*header {
+    background-color: black;
+    padding: 10px 0;
+}
+
+nav ul{
+    display: flex;
+    margin-bottom: 0px;
+    justify-content: end;
+    list-style-type: none ;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    padding: 8px 16px;
+    transition: all 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: white;
+    border-radius: 5px;
+    text-decoration: underline;
+}*
